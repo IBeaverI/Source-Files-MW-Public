@@ -20,8 +20,8 @@ $bodygroup "tag_sight"
 
 $bodygroup "tag_stock"
 {
-	studio "meshes/weapon_vm_sm_augolf_tag_stock_attach.smd"
 	blank
+	studio "meshes/weapon_vm_sm_augolf_tag_stock_attach.smd"
 }
 
 $bodygroup "tag_grip_attach"
