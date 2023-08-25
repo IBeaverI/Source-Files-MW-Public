@@ -6,7 +6,6 @@ $origin 0 0 0 -90
 
 $bodygroup "1"
 {
-	blank
 	studio "meshes/w_mike4.smd"
 }
 

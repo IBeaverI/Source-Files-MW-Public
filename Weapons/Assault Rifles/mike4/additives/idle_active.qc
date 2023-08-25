@@ -5,7 +5,7 @@ $weightlist "weights_wpnonly" {
     "j_wrist_ri" 1
 	"j_wrist_le" 1
 	"tag_sight_off" 1
-	"tag_laser_hide" 1
+	//"tag_laser_hide" 1
 }
 
 // To Sub
