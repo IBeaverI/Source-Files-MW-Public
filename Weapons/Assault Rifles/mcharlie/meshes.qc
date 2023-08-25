@@ -8,7 +8,6 @@ $origin 0 0 0 -90
 
 $bodygroup "receiver"
 {
-	blank
 	studio "meshes/attachment_vm_ar_mcharlie_receiver.smd"
 }
 

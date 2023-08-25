@@ -5,8 +5,7 @@ $illumposition 0 0 0
 
 $origin 0 0 0 -90
 
-$bodygroup "reference"
+$bodygroup "reciever"
 {
-	blank
 	studio "meshes/attachment_vm_ar_falima_reciever.smd"
 }
