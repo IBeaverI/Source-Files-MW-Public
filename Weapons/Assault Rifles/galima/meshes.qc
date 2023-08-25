@@ -24,6 +24,6 @@ $bodygroup "laser"
 
 $bodygroup "tag_stock"
 {
-	blank
 	studio "meshes/attachment_vm_ar_galima_stock_adapter.smd"
+	blank
 }
