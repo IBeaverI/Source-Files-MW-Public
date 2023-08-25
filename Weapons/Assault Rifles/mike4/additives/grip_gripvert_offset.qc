@@ -1,7 +1,7 @@
 // Weights
-$weightlist "weights_laser_hide_fix" {
-    "tag_laser_hide" 0
-}
+//$weightlist "weights_laser_hide_fix" {
+//    "tag_laser_hide" 0
+//}
 // To Sub
 $animation grip_gripvert_idle_to_sub "anims\vm_ar_mike4_idle.smd"
 
@@ -16,7 +16,7 @@ $sequence "grip_gripvert_offset" {
 
 	$include "macros/grip_gripvert_blend.qc"
 
-	weightlist "weights_laser_hide_fix"
+//	weightlist "weights_laser_hide_fix"
 
 	delta
 	realtime
